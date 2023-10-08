@@ -9,5 +9,14 @@ visit the website for reference:
 https://luxebay-ecommerce.web.app
 
 
+..Tech stack: <br>
+<ul>
+  <li>REACTJS</li> 
+  <li>REDUX</li>
+  <li>FIREBASE</li>
+</ul>
+
+
+
 
 
